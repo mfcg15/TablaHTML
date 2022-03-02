@@ -1,0 +1,22 @@
+body
+{
+    padding: 0px 25% 0px 25%;
+}
+
+div
+{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.table-dark
+{
+    font-size: 22px;
+}
+
+th
+{
+    color: #e2ba2a;
+}
